@@ -5,7 +5,7 @@ import CurrentTime from './components/CurrentTime'
 function App() {
 
   return (
-   <div>
+   <div className='bg-violet-400 w-screen h-screen flex flex-col justify-center items-center'>
     <ClockHead />
     <ClockDesc />
     <CurrentTime />

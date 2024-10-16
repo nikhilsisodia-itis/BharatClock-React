@@ -1,5 +1,5 @@
 let ClockHead = () => {
-    return <h1 className="text-center text-5xl">Headng 1</h1>
+    return <h1 className="text-6xl">BHARAT CLOCK</h1>
 }
 
 export default ClockHead;
